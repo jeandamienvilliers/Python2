@@ -3,3 +3,6 @@
 Python 2 Repo. Open the Url Below to run Jupyter.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/demo-julia/HEAD?filepath=demo.ipynb)
+
+
+notebooks/Exercises - Reading and Writing Files - Q.ipynb
